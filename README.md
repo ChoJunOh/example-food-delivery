@@ -120,3 +120,7 @@
 
 
 ## Event Storming 결과
+![image](https://user-images.githubusercontent.com/74656868/212527167-2b274817-a785-4345-8799-ff13c583c9bc.png)
+
+
+## 1. Saga (Pub/Sub)
